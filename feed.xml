@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-12-07T08:07:38-08:00</updated><id>/feed.xml</id><title type="html">Meadowview Lab</title><subtitle>This is where you can find my thoughts and work on creating things that go to space, finding things that can't be seen, and reasons why you should look up more often.</subtitle><author><name>David Story</name><email>storyd@sonoma.edu</email></author><entry><title type="html">Letter to the Internet</title><link href="/Letter-to-the-reader/" rel="alternate" type="text/html" title="Letter to the Internet" /><published>2018-11-24T00:00:00-08:00</published><updated>2018-11-24T00:00:00-08:00</updated><id>/Letter-to-the-reader</id><content type="html" xml:base="/Letter-to-the-reader/">&lt;h3 id=&quot;greetings-internet&quot;&gt;Greetings, Internet!&lt;/h3&gt;
+&lt;p&gt;Hello readers of the Internet! I am creating this post just as a formal welcome to my page, as well as testing if this Jekyll static page creation really works!&lt;/p&gt;
+
+&lt;p&gt;What you should be able to expect from this site is to be an open-source of information and thoughts on the design an development of next-generation space systems,
+in general encompassing mostly the hardware and software design of systems for Deep-Space applications. There are a few subjects along this matter that I believe are
+relevant and open-ended research questions that we can consider and design for. They are the following:&lt;/p&gt;
+&lt;ul style=&quot;list-style-type:square&quot;&gt;
+	&lt;li&gt; Space enviroment hardening &lt;/li&gt;
+	&lt;li&gt; Hardware &amp;amp; software redundancy practices &lt;/li&gt;
+	&lt;li&gt; Guidance, navigation, and control without active telemetry &lt;/li&gt;
+	&lt;li&gt; Closed loop life support and natural systems &lt;/li&gt;
+	&lt;li&gt; New communication protocals and concepts for manned interplanetary missions &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These are just a few ideas of concepts that can formulated, argued, and refined here. I will add to this list as this site is created, I will refine on it, and 
+I will hopefully be able to improve upon these concepts.&lt;/p&gt;
+
+&lt;p&gt;For now, thank you for reading and I hope to see you here again soon!&lt;/p&gt;
+
+&lt;p&gt;Ad Astra,&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;David&lt;/i&gt;&lt;/p&gt;</content><author><name>David Story</name><email>storyd@sonoma.edu</email></author><summary type="html">Greetings, Internet! Hello readers of the Internet! I am creating this post just as a formal welcome to my page, as well as testing if this Jekyll static page creation really works!</summary></entry></feed>
