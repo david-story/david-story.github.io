@@ -5,7 +5,7 @@ minimal_mistakes_skin    : "dark"
 ---
 
 
-<i> Created by David Story for Spring 2019 Workshop </i>
+<i>Created by David Story for Spring 2019 Workshop </i>
 
 
 <a href="/assets/documents/python-steganography-workshop.pdf">PDF version of the instructions</a>
