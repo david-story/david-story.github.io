@@ -5,7 +5,7 @@ minimal_mistakes_skin    : "dark"
 ---
 
 
-<i> Created by David Story for Spring 2019 Workshop </i>
+<i>Created by David Story for Spring 2019 Workshop </i>
 
 
 <a href="/assets/documents/python-steganography-workshop.pdf">PDF version of the instructions</a>
@@ -54,11 +54,11 @@ Groups that can successfully decode the audio and locate the secret will be awar
 
 From the Merriam-Webster Dictionary, <i>Steganography</i> is defined as "The art or practice of concealing a message, image, or file within another message, image, or file". <a href="https://www.merriam-webster.com/dictionary/steganography" target="_blank">[1]</a> 
 
-Steganography can be used to hide information where people least expect it. Audio, images, and video are only a few types of data that you can hide messages in. Decoding the data requires knowing how the information is encoded in order to properly decode the message. This makes steganography a safe and subtle way of hiding information in 'plain sight'.
+Steganography can be used to hide information where people least expect it. Audio, images, and video are only a few types of data that you can hide messages in. Decoding the data requires knowing how the information is encoded in order to properly decode the message. Thus, this making steganography a safe and subtle way of hiding information in 'plain sight'.
 
 ### What you are given ###
 
-You will be provided with a folder containing various audio files which already have a text file "hidden" in the bytes of the audio file. You will also be given two Python files: 
+Thus in our case, you will be provided with a folder containing various audio files which already have a text file "hidden" in the bytes of the audio file. You will also be given two Python files: 
 One called AudioParse.py that can take your audio files and return a list of signed 16-bit integers which represent each audio sample. You will also get a file called AudioSteganography that has more code to help you. The framework has comments that shows you what each support function does. These functions are here to remove some of the more tedious parsing and minor issues that can be time consuming. You can open and examine each file after the workshop if you want to know more about whats going on 'under the hood'. 
 
 ### What you are looking for ###
