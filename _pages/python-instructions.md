@@ -17,10 +17,10 @@ This workshop is intended to help students who have taken CS115 or an equivalent
 In this workshop, we will be creating a class that will allow us to decode information that was hidden inside an audio file. 
 
 
-<b>Your mission is to be able to process the audio file, extract hidden bits in that file, make each 8 bits a byte that will coorespond to an ASCII value, print the secret message or write it to a file, which will reveal the coordinates to a hidden package.</b> 
+<b>Your mission is to be able to process the audio file, extract hidden bits in that file, make each 8 bits a byte that will coorespond to an ASCII value, print the secret message or write it to a file, which will reveal the coordinates to a location on campus. Informing me of this location or landmark designated in the secret message will be your task. If you succeed, you will receive a certificate of accomplishmnet.</b> 
 
 
-The location will be within the bounds of the campus. To support any students that are struggling to complete the decoder, code for encoding information in audio files will be released midway through the  workshop. You may also ask assistance of the workshop instructors at any time if you have questions.
+The location will be within the bounds of the campus. To support any students that are struggling to complete the decoder, some API files that reduce some of the tedious work are provided. You may also ask assistance of the workshop instructor(s) at any time if you have questions.
 
 
 <b>
@@ -63,7 +63,7 @@ One called AudioParse.py that can take your audio files and return a list of sig
 
 ### What you are looking for ###
 
-You will be looking for a message that consists of ASCII characters that form a string that has the name of a location, lattitude and longitudial coordinates, and an additional location description to aid you in finding your secret package. You can use <a href="https://www.gps-coordinates.net/" target="_blank">this website</a> to enter the coordinates you are given.
+You will be looking for a message that consists of ASCII characters that form a string that has the name of a location, lattitude and longitudial coordinates, and an additional location description to aid you in finding your secret landmark. You can use <a href="https://www.gps-coordinates.net/" target="_blank">this website</a> to enter the coordinates you are given.
 
 ### Getting your starting code ###
 
