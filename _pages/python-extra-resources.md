@@ -10,6 +10,8 @@ Where to get Python v3.7.2: <a href="https://www.python.org/downloads/">https://
 
 Python language reference: <a href="https://docs.python.org/3/">https://docs.python.org/3/</a>
 
+ASCII Table: <a href="http://www.asciitable.com/">http://www.asciitable.com/</a>
+
 In-browser Python interpreter (great for testing and debug small code portions): <a href="http://pythontutor.com/visualize.html#mode=edit">http://pythontutor.com/visualize.html#mode=edit</a>
 
 My Favorite IDE (has free version and student version for up to 3 years): <a href="https://www.jetbrains.com/pycharm/">https://www.jetbrains.com/pycharm/</a>
