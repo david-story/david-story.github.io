@@ -6,9 +6,9 @@ minimal_mistakes_skin    : "dark"
 
 <b>Here are some external resources to get you up and running:</b>
 
-Where to get Python (current version is 3.7.2): <a href="https://www.python.org/downloads/">https://www.python.org/downloads/</a>
+Where to get Python v3.7.2: <a href="https://www.python.org/downloads/">https://www.python.org/downloads/</a>
 
-Python language reference (3.7.2): <a href="https://docs.python.org/3/">https://docs.python.org/3/</a>
+Python language reference: <a href="https://docs.python.org/3/">https://docs.python.org/3/</a>
 
 In-browser Python interpreter (great for testing and debug small code portions): <a href="http://pythontutor.com/visualize.html#mode=edit">http://pythontutor.com/visualize.html#mode=edit</a>
 
