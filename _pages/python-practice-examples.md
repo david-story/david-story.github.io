@@ -27,9 +27,10 @@ an error in your code.
 ">Python Tutor Example 1</a> - Basics of bit masking.</li>
 <li><a href="http://pythontutor.com/visualize.html#code=a%20%3D%20True%0Ab%20%3D%20True%0A%0A%23%20If%20a%20is%20true%0Aif%20a%20%3D%3D%20False%3A%0A%20%20%20%20%23%20we%20will%20only%20print%20this%0A%20%20%20%20print%28%22a%20is%20false%22%29%0A%23%20but%20is%20a%20is%20not%20true%20and%20b%20is%20false,%0Aelif%20b%20%3D%3D%20False%3A%0A%20%20%20%20%23%20we%20will%20print%20this%0A%20%20%20%20print%28%22b%20is%20false%22%29%0A%23%20if%20all%20the%20if%20or%20elif%20statements%20above%20fail%0Aelse%3A%0A%20%20%20%20%23%20we%20catch%20all!%0A%20%20%20%20print%28%22neither%20are%20false%22%29%0A%20%20%20%20%0Aif%20a%20%3D%3D%20True%3A%0A%20%20%20%20print%28%22a%20is%20true%22%29%0Aif%20b%20%3D%3D%20True%3A%0A%20%20%20%20print%28%22b%20is%20true%22%29%0A%20%20%20%20%0A&cumulative=false&curInstr=9&heapPrimitives=nevernest&mode=display&origin=opt-frontend.js&py=3&rawInputLstJSON=%5B%5D&textReferences=false">
 Python Tutor Example 2</a> - Examples of conditionals</li>
+<li><a href="http://pythontutor.com/visualize.html#mode=edit">
+Python Tutor Example 3</a> - Integers to hex to binary</li>
 </ul>
 
-<li><a href="http://pythontutor.com/visualize.html#code=sample_numbers%20%3D%20%5B1234,5345,4564,3457,2435,2345245%5D%0A%0Afor%20numbers%20in%20sample_numbers%3A%0A%20%20%20%20print%28%22Sample%3A%20%22,%20numbers,%20end%3D%22%20%22%29%0A%20%20%20%20print%28%22Sample%20in%20HEX%3A%22,%20hex%28numbers%29,%20end%3D%22%20%22%29%0A%20%20%20%20print%28%22Sample%20in%20Binary%3A%22,%20bin%28numbers%29%29&cumulative=false&curInstr=26&heapPrimitives=nevernest&mode=display&origin=opt-frontend.js&py=3&rawInputLstJSON=%5B%5D&textReferences=false">
-Python Tutor Example 3</a> - Integers to hex to binary</li>
+
 
 
