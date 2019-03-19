@@ -39,8 +39,10 @@ the hardware.
 Eagle schematics and board files are stored in a repository.
 Folders in the repository will each hold two files:
 
-- somefile.sch - <i>this is the schematic file</i>
-- somefile.brd - <i>this is the board file</i>
+<ul style="list-style-type:square">
+<li>somefile.sch - <i>this is the schematic file</i></li>
+<li>somefile.brd - <i>this is the board file</i></li>
+</ul>
 	
 Each folder will hold a different system; the main microcontroller board is under a folder aptly named 'microcontroller-board'
 
