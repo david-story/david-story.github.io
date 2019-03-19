@@ -47,3 +47,26 @@ Each folder will hold a different system; the main microcontroller board is unde
 The files are avaliable at the following link:
 
 <a href="https://github.com/david-story/modular-embedded-stack">Modular Embedded Stack Repository </a>
+
+### Schematic ###
+
+The following are the schematic images for the microcontroller board:
+
+<figure class="one">
+	<figcaption>First schematic for modular embedded stack</figcaption>
+    <a href="/assets/images/project-microcontroller-schem1.png"><img src="/assets/images/project-microcontroller-schem1.png"></a>
+</figure>
+
+<figure class="one">
+	<figcaption>Second schematic for modular embedded stack</figcaption>
+    <a href="/assets/images/project-microcontroller-schem2.png"><img src="/assets/images/project-microcontroller-schem2.png"></a>
+</figure>
+
+### Board ###
+
+The following is the board file with all layers for the modular embedded stack:
+
+<figure class="one">
+	<figcaption>Modular Embedded Stack Board</figcaption>
+    <a href="/assets/images/project-microcontroller-board.png"><img src="/assets/images/project-microcontroller-board.png"></a>
+</figure>
