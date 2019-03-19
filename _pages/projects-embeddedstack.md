@@ -50,6 +50,11 @@ The files are avaliable at the following link:
 
 <a href="https://github.com/david-story/modular-embedded-stack">Modular Embedded Stack Repository </a>
 
+### Bill of Materials ###
+A general bill of materials can be downloaded here:
+
+<a href="/assets/documents/project-embeddedstack-bom.csv">CSV Bill of Materials </a>
+
 ### Schematic ###
 
 The following are the schematic images for the microcontroller board:
