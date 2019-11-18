@@ -8,8 +8,9 @@ Below are the pages for instructions and resources for my workshops:
 
 ## Soldering Workshop
 	<ul style="list-style-type:disc">
-	<li> Tester </li>
-	</ul>
+   <li> <a href="/assets/documents/AutoCAD-Eagle-PCB-Design-Workshop.pptx">Power Point Slides</a>  </li>
+   <li> <a href="/assets/documents/workshop.sch">Workshop Schematic File</a>  </li>
+   </ul>
 
 ## Eagle Workshop - Slides & Example Schematic
    <ul style="list-style-type:disc">
