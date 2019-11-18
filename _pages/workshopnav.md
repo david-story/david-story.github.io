@@ -6,6 +6,11 @@ minimal_mistakes_skin    : "dark"
 
 Below are the pages for instructions and resources for my workshops:  
 
+## Soldering Workshop
+	<ul style="list-style-type:disc">
+	<li> <a href="/assets/documents/SolderingWorkshopV1.pptx">Power Point Slides</a>  </li>
+	</ul>
+
 ## Eagle Workshop - Slides & Example Schematic
    <ul style="list-style-type:disc">
    <li> <a href="/assets/documents/AutoCAD-Eagle-PCB-Design-Workshop.pptx">Power Point Slides</a>  </li>
