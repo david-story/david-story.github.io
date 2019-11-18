@@ -6,8 +6,8 @@ minimal_mistakes_skin    : "dark"
 
 Below are the pages for instructions and resources for my workshops:  
 
-## Soldering Workshop
-	<a href="/_pages/python-instructions/">Instructions</a>
+
+
 
 ## Eagle Workshop - Slides & Example Schematic
    <ul style="list-style-type:disc">
@@ -30,5 +30,6 @@ Below are the pages for instructions and resources for my workshops:
    <li> <a href="/_pages/c++-extra-resources/">Extra Resources</a>  </li>
    </ul>
    
+<a href="/_pages/python-instructions/">Instructions</a>
    
    
