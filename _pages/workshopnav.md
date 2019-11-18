@@ -7,7 +7,7 @@ minimal_mistakes_skin    : "dark"
 Below are the pages for instructions and resources for my workshops:  
 
 ## Soldering Workshop
-<a href="/_pages/python-instructions/">Instructions</a> </li>
+<a href="/_pages/python-instructions/">Instructions</a> 
 
 ## Eagle Workshop - Slides & Example Schematic
    <ul style="list-style-type:disc">
