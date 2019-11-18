@@ -8,7 +8,7 @@ Below are the pages for instructions and resources for my workshops:
 
 ## Soldering Workshop
 	<ul style="list-style-type:disc">
-	<li> <a href="/assets/documents/SolderingWorkshopV1.pptx">Soldering Power Point Slides</a>  </li>
+	<li> Tester </li>
 	</ul>
 
 ## Eagle Workshop - Slides & Example Schematic
