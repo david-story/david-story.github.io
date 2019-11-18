@@ -28,6 +28,6 @@ Below are the pages for instructions and resources for my workshops:
    </ul>
  
 ## Soldering Workshop
-	<a href="/_pages/python-instructions/">Instructions</a>
-   
-   
+	<ul style="list-style-type:disc">
+	<li> <a href="/_pages/python-instructions/">Instructions</a> </li>
+	</ul>
